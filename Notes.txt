@@ -1,0 +1,4 @@
+- Set up and host a database to store the dates
+	- Data Stored as GUID and Data.
+- Set up API calls to database
+- Set up simple front end.
